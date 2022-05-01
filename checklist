@@ -1,9 +1,12 @@
 Evaluation Rubric
 
 
-Data understanding  (10%)
+A. Data understanding  (10%)
 All data quality issues are correctly identified and reported. 
 Wherever required, the meanings of the variables are correctly interpreted and written either in the comments or text.
+--> i. Dropped few columns
+   ii. Correcting Datetime and creating new columns
+
 
 
 Data Cleaning and Manipulation (20%)
