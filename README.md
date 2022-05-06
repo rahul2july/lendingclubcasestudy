@@ -42,16 +42,15 @@ Lending club wants to understand the driving factors (or driver variables) behin
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by EDA module as part of Data Science course.
+- This project was based on https://learn.upgrad.com/course/1991/segment/16593/125701/384598/2002849.
 
 
 ## Contact
-Created by [@rahul2july] - feel free to contact me!
+Created by [@rahul2july, @kc11381] - feel free to contact me!
 
 Contributors
--Rahul Gupta \n
+-Rahul Gupta
 -Kanhaiya Choudhary
 
 
