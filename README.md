@@ -47,7 +47,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@rahul2july, @kc11381] - feel free to contact me!
+Created by [@rahul2july, @kc11381] - feel free to contact us!
 
 Contributors
 -Rahul Gupta
